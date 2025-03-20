@@ -12,6 +12,11 @@
         "**.docx**"
       ],
       "event": "aem-genai-variations-sidekick"
+    },
+    {
+      "id": "Generate with AI",
+      "title": "Foo",
+      "url": "/tools/sidekick/foo.html"
     }
   ]
 }
